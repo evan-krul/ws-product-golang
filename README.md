@@ -1,11 +1,7 @@
 ## Work Sample for Product Role, Golang Variant
 
-[What is this?](https://github.com/EQWorks/work-samples#what-is-this)
+My solution to [Product 2B](https://gist.github.com/woozyking/126fdf4c72fdf65a3504e5681a1ce715#2b---back-end-track) for EQ-Works Work Sample.
 
-## Problems
-
-You should receive problems that can be solved using this repo as a starting point when you [apply for the job](https://apply.workable.com/eqworks/).
-
-## Notes on working through the problems
-
-Try to leverage Golang's `channels` and/or `sync`.
+### Compiling
+ - Run `go run main.go` in directory of `main.go`
+ - Port 8080 should be active
